@@ -1,0 +1,22 @@
+<!Doctype html>
+<html>
+	<body>
+	<style>
+	.Andrew_Style {
+	background-color: Green;
+	color: yellow;
+	font-size: large;
+	text-decoration: underline;
+	font-weight: bold;
+	}
+	.font_2 {
+	background-color: darkblue;
+	color: white;
+	font-size: medium;
+	}
+	</style>
+	<h2 class="Amdrew_Style">This h2 element is styled per class attribute font_1</h2>
+	<h3 class="font_2">This h3 element is styled per class attribute font_2</h2>
+	<h4 class="Andrew_Style">Even though this is an h4 element, it is styled the same as the h2 element because we pointed to the class attribute font_1</h4>
+	</body>
+</html>

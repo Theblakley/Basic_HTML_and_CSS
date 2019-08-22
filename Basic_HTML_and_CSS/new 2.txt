@@ -1,0 +1,14 @@
+<!Doctype html>
+<html>
+	
+	<style>
+p {
+	color: green:
+	text-allign: right; 
+	}
+	</style>
+	</head>
+	<body>
+	<p> Happy Birthday Emilie </p>
+	</body>
+	</html>
