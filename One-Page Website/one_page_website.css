@@ -1,0 +1,11 @@
+body {
+    font-family: "Arial", Times,serif;
+    font-size: large;
+}
+
+input {
+    width: 33%;
+    margin: 25px 50px 15px 25px;
+    border: 2px solid black;
+    border-radius: 4px;
+}
