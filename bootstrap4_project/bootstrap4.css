@@ -1,0 +1,6 @@
+ .card {
+     float: left;
+     padding: 10 10px;
+     align-self: flex-end;
+     overflow: hidden;
+ }
